@@ -1,5 +1,15 @@
 # DevilFruitCollector
 
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-SwiftUI-blue">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
+
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/c75d31e6-d26e-4caf-9745-ddd308a9785b" />
+  <img width="300" src="https://github.com/user-attachments/assets/e0ad15e4-e17c-4980-9212-84158f0cb62a" />
+</p>
+
 DevilFruitCollector is a simple iOS app for tracking and collecting Devil Fruits from the One Piece universe. It uses a SwiftUI interface and Core Data for persistent storage.
 
 ## Features
